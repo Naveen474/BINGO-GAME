@@ -9,4 +9,7 @@ user authorization haven't been established yet and user can enter the username 
 CLICK 
 file -> import -> Existing Maven Projects -> select your local repo which you cloned.
 
+** Make to put your user-name and password of you my-sql software in the hibernate.cfg.xml file**
+location : target -> classes -> hibernate.cfg.xml
+
 ** NEEDS TO DEVELOP IN THE COMPETITION BETWEEN TWO PEOPLE**
